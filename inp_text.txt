@@ -1,0 +1,5 @@
+Python is used for server-side web development, software development, mathematics, and system scripting, and is popular for Rapid
+Application Development and as a scripting or glue language to tie existing components because of its high-level, built-in data structures,
+dynamic typing, and dynamic binding. Program maintenance costs are reduced with Python due to the easily learned syntax and emphasis on readability.
+Additionally, Python's support of modules and packages facilitates modular programs and reuse of code. Python is an open source community language,
+so numerous independent programmers are continually building libraries and functionality for it.
