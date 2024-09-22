@@ -5,5 +5,3 @@ meth_out = "file"
 count_symb = 663
 count_word = 93
 count_sent = 4
-
-
